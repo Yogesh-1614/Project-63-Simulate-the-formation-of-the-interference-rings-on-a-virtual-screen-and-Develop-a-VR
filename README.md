@@ -1,19 +1,19 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b> Simulate the formation of the interference rings on a virtual screen and  Develop a VR application where students can input their measurements to calculate the wavelength.
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Yogesh Singh | <b> Simulation the formation of the interference rings on a virtual screen and  Develop a VR application where students can input their measurements to calculate the wavelength.
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
+<b> Institute | <b> Rajliya Engineering College Banda 
+<b> Email id|     <b> yshah1491@gmail.com 
 <b> Department |  
 
 ### Contributors List
